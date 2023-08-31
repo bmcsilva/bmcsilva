@@ -14,7 +14,7 @@
 </div>  
 
   <div align="center">
-    <img height="180mm" src="https://github-readme-stats-nine-psi-64.vercel.app/api?username=bmcsilva&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&count_private=true" /> &nbsp;&nbsp;
+    <img height="180mm" src="https://github-readme-stats-nine-psi-64.vercel.app/api?username=bmcsilva&show_icons=true&theme=tokyonight&locale=en&count_private=true" /> &nbsp;&nbsp;
     <img height="180mm" src="https://github-readme-streak-stats.herokuapp.com/?user=bmcsilva&theme=dark" /> &nbsp;&nbsp;
     <img height="180mm" src="https://github-readme-stats-nine-psi-64.vercel.app/api/top-langs/?username=bmcsilva&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
   </div>
