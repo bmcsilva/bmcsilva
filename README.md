@@ -3,26 +3,39 @@
 </div>  
 
 <div align="center">
-  <img src="https://github.com/bmcsilva/bmcsilva/blob/main/attachments/howdy.png" align="center" style="width: 5%" />
-  <h3> Howdy partner! </h3>
+  <img src="https://github.com/bmcsilva/bmcsilva/blob/main/attachments/howdy.png" align="center" style="width: 5%" /> </br>  
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&pause=1000&color=64F760&center=true&vCenter=true&width=435&lines=Howdy+partner!"/>
   <h1></h1>
 </div>  
 
 <div align="center">
-</br><b> Welcome to my github page!</b></br> My name is Bruno and i'm from Portugal <img src="https://cdn-icons-png.flaticon.com/512/1795/1795476.png" align="center" style="width: 3%" />  </br> I'm a <b>C</b> and <b>GTK3</b> developer.  </br> 
+  </br><b> Welcome to my github page!</b></br> My name is Bruno and i'm from Portugal <img src="https://cdn-icons-png.flaticon.com/512/10601/10601006.png" align="center" style="width: 1%" /> </br></br> I'm a <b>C</b> and <b>GTK3</b> developer.  </br> 
   <h1></h1>
 </div>  
 
-<div align="center">
-  <h3>Here are my stats </h3>
-    
-  ![](https://github-readme-stats-nine-psi-64.vercel.app/api?username=bmcsilva&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&count_private=true) 
-  ![](https://github-readme-stats-nine-psi-64.vercel.app/api/top-langs/?username=bmcsilva&show_icons=true&theme=tokyonight&locale=en&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-nine-psi-64.vercel.app/api?username=bmcsilva&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&count_private=true" alt="Commits1" align="center">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmcsilva&theme=dark" alt="Commits2" align="center">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats-nine-psi-64.vercel.app/api/top-langs/?username=bmcsilva&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages">
+    </td>
+  </tr>
+</table>
+  
   <h1></h1>
-</div>  
+  
+</div>
 
 <div align="center">
-  🔭 My current project is this software called <td><a href="https://www.onday.pt/"><b>OnDay</b></a></td>
+  
+  <img src="https://github.com/bmcsilva/bmcsilva/blob/main/attachments/motion-design-icon.gif" align="center" style="width: 30%" /> <h3>🔨 My current project is this software called <a href="https://www.onday.pt/"><b>OnDay</b></a></h3>
   <h1></h1>
 </div>  
 
