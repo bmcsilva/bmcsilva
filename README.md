@@ -38,14 +38,10 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <h1></h1>
 </div>
+
 <div align="center">
   <h3>Places that you can reach me</h3></br>
   <a href="https://linkedin.com/in/bruno-m-c-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-m-c-silva" height="30" width="40" /></a>
     <a href="https://discord.com/users/513401442267037714" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="bruno-m-c-silva" height="30" width="40" /></a>
   <h1></h1>
 </div>
-
-<h3 align="left">Places that you can reach me</h3>
-<p align="left">
-
-</p>
