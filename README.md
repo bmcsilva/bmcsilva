@@ -9,7 +9,7 @@
 </div>  
 
 <div align="center">
-  </br><b> Welcome to my github page!</b></br> My name is Bruno and i'm from Portugal <img src="https://cdn-icons-png.flaticon.com/512/10601/10601006.png" align="center" style="width: 1%" /> </br></br> I'm a <b>C</b> and <b>GTK3</b> developer.  </br> 
+  </br><b>Welcome to my github page!</b></br>My name is Bruno and i'm from Portugal <img src="https://cdn-icons-png.flaticon.com/512/10601/10601006.png" align="center" style="width: 1%" /> </br>I'm a <b>C</b> and <b>GTK3</b> developer.  </br> 
   <h1></h1>
 </div>  
 
