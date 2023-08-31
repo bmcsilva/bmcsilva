@@ -13,21 +13,11 @@
   <h1></h1>
 </div>  
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-nine-psi-64.vercel.app/api?username=bmcsilva&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&count_private=true" alt="Commits1" align="center">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmcsilva&theme=dark" alt="Commits2" align="center">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats-nine-psi-64.vercel.app/api/top-langs/?username=bmcsilva&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages">
-    </td>
-  </tr>
-</table>
+  <div align="center">
+    <img height="180mm" src="https://github-readme-stats-nine-psi-64.vercel.app/api?username=bmcsilva&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&count_private=true" /> &nbsp;&nbsp;
+    <img height="180mm" src="https://github-readme-streak-stats.herokuapp.com/?user=bmcsilva&theme=dark" /> &nbsp;&nbsp;
+    <img height="180mm" src="https://github-readme-stats-nine-psi-64.vercel.app/api/top-langs/?username=bmcsilva&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
+  </div>
   
   <h1></h1>
   
