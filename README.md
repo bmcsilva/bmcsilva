@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=bmcsilva&label=People%20who%20miss%20clicked&color=0055ff&style=plastic" alt="bmcsilva" />
+</div>  
+
 <div align="center">
   <img src="https://github.com/bmcsilva/bmcsilva/blob/main/attachments/howdy.png" align="center" style="width: 5%" />
   <h3> Howdy partner! </h3>
@@ -11,9 +15,9 @@
 
 <div align="center">
   <h3>Here are my stats </h3>
-
-  ![](https://github-readme-stats-nine-psi-64.vercel.app/api?username=bmcsilva&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-  ![](https://github-readme-stats-nine-psi-64.vercel.app/api/top-langs/?username=bmcsilva&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+    
+  ![](https://github-readme-stats-nine-psi-64.vercel.app/api?username=bmcsilva&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&count_private=true) 
+  ![](https://github-readme-stats-nine-psi-64.vercel.app/api/top-langs/?username=bmcsilva&show_icons=true&theme=tokyonight&locale=en&layout=compact)
   <h1></h1>
 </div>  
 
@@ -34,3 +38,14 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <h1></h1>
 </div>
+<div align="center">
+  <h3>Places that you can reach me</h3></br>
+  <a href="https://linkedin.com/in/bruno-m-c-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-m-c-silva" height="30" width="40" /></a>
+    <a href="https://discord.com/users/513401442267037714" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="bruno-m-c-silva" height="30" width="40" /></a>
+  <h1></h1>
+</div>
+
+<h3 align="left">Places that you can reach me</h3>
+<p align="left">
+
+</p>
