@@ -24,10 +24,17 @@
 </div>
 
 <div align="center">
-  
-  <img src="https://github.com/bmcsilva/bmcsilva/blob/main/attachments/motion-design-icon.gif" align="center" style="width: 30%" /> <h3>🔨 My current project is this software called <a href="https://www.onday.pt/"><b>OnDay</b></a></h3>
-  <h1></h1>
-</div>  
+    <h3 align="center">Projects</h3>
+    <img src="https://github.com/bmcsilva/bmcsilva/blob/main/attachments/motion-design-icon.gif" align="center" style="width: 30%;" /> 
+   
+  &nbsp;
+  <div>  
+        &nbsp;
+        <h3>🔨 A software called <a href="https://www.onday.pt/"><b>OnDay</b></a></h3>
+        <h3>🔨 A software called <a href="https://github.com/bmcsilva/zeropad-customizer-app"><b>ZeroPad Customizer</b></a></h3>
+    </div>  
+   <h1></h1>
+</div>
 
 <div align="center">
   <h3>The things that i use daily</h3></br>
